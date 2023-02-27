@@ -1,4 +1,4 @@
-### Olá! Meu nome é Eduarda Moriel e tenho 23 anos 👋
+### Olá! Meu nome é Eduarda Moriel 👋
 - Estou cursando Análise e Desenvolvimento de Sistemas 💻
 - Estou aprendendo JavaScript e Python 💜
 - Como entrar em contato comigo? morielgomes@gmail.com 📫 
