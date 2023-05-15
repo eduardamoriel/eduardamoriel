@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Eduarda Moriel 👋
 - Estou cursando Análise e Desenvolvimento de Sistemas 💻
-- Estou aprendendo JavaScript e Python 💜
+- Estou aprendendo Java e Python 💜
 - Como entrar em contato comigo? morielgomes@gmail.com 📫 
 
 <!---
